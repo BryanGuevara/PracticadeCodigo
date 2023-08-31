@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Aburrimiento
+build_property.RootNamespace = Aburrimiento
+build_property.ProjectDir = C:\Users\MINEDUCYT\Desktop\Mio\paginas creadas\Aburrimiento\Aburrimiento\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MINEDUCYT\Desktop\Mio\paginas creadas\Aburrimiento\Aburrimiento
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Alumnoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bW5vZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Alumnoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bW5vZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Alumnoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bW5vZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Alumnoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bW5vZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Alumnoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bW5vZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Jugadores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVnYWRvcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Jugadores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVnYWRvcmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Jugadores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVnYWRvcmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Jugadores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVnYWRvcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Jugadores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSnVnYWRvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Proveedores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Proveedores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Proveedores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Proveedores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Proveedores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Desktop/Mio/paginas creadas/Aburrimiento/Aburrimiento/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cs4kbvjebf
